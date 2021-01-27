@@ -1,0 +1,16 @@
+
+/* .btn, .btn-group, .dropdown-menu{
+    width:100%;
+    margin:10px 0;
+} */
+.logo{
+  margin-top:50%;
+}
+.logo img{
+    margin:0 auto;
+    position: relative;
+    display: block;
+}
+.middle{
+    margin-left:10%;
+}
